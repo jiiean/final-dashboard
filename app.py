@@ -1,4 +1,4 @@
-pip install pandas plotly requests
+
 
 import pandas as pd
 import plotly.graph_objects as go
