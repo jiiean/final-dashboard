@@ -1,6 +1,6 @@
 import pandas as pd
 import plotly.graph_objects as go
-import requests
+import requests 
 
 # Simulated data
 data = pd.DataFrame({
